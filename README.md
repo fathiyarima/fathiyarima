@@ -1,23 +1,17 @@
-<h1 align="center">Hi 👋, I'm Fathiya Rima</h1>
+# Hi there! 👋
 
-<p align="center">
-  <b>Informatics Education Graduate</b><br>
-  Passionate about Web Development & Software Engineering
-</p>
+I'm **Fathiya Rima**, an Informatics Education graduate from **Universitas Sebelas Maret**.
 
----
+I'm passionate about building web applications and educational technology. I enjoy learning new technologies, solving problems, and continuously improving my skills through personal and academic projects.
 
-## 👩‍💻 About Me
+🌱 Currently learning:
+- Laravel
+- Software Engineering
+- Web Development
 
-- 🎓 Informatics Education Graduate from Universitas Sebelas Maret
-- 💻 Interested in Web Development
-- ⚙️ Interested in Software Engineering
-- 🌱 Currently learning Laravel and improving my backend development skills
-- 🚀 Always learning new technologies
+📍 Indonesia
 
 ---
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
@@ -41,15 +35,27 @@
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects
 
-- 🎮 Read Porter Game
-- 📚 Library Management System
-- ✅ To Do List
-- 🌐 Internship Project
+### 🎮 Read Porter Game
+Educational game developed using Unity to improve reading comprehension through the implementation of Cognitive Load Theory.
+
+🔗 https://github.com/fathiyarima/read-porter-game
 
 ---
 
+### 📚 Library Management System
+Desktop-based library management system developed using Java and MySQL.
+
+🔗 https://github.com/fathiyarima/library-management-system-java
+
+---
+
+### ✅ Todo List App
+A simple task management application built with PHP.
+
+🔗 https://github.com/fathiyarima/todo-list-app
+
 ## 📫 Connect With Me
 
-📧 Email : <ISI EMAILMU>
+📧 Email : tiyarima02@gmail.com
