@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**fathiyarima/fathiyarima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Fathiya Rima**.
 
-Here are some ideas to get you started:
+🎓 Informatics Education Graduate from Universitas Sebelas Maret
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in:
+- Web Development
+- Software Engineering
+- Educational Technology
+
+🌱 Currently learning:
+- Laravel
+- Java
+- Git & GitHub
+
+📫 Reach me:
+- Email: tiyarima02@gmail.com
+
+---
+Thanks for visiting my GitHub! 😊
